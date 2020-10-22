@@ -1,0 +1,17 @@
+{
+	"resumedata": {
+			"name": "HARSHA BULUSU",
+			"Role" : "SOFTWARE ENGINEER",
+		"professional_skills": {
+			"java": "Competetive",
+			"Python": "Advanced",
+			"js": "intermediate"
+		},
+		"personal_Skills": ["playing cricket", "surfing on net"],
+		"education": {
+			"institute":["Avanthi","Sri Chaitanya","Rama Krishna"],
+			"course":["Btech","intermediate","SSC"],
+			"percentage":[65,83,90]
+		}
+	}
+}

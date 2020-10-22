@@ -1,0 +1,19 @@
+{
+	"resumedata": {
+			"name": "VIRAT KOHLI",
+			"Role" : "SOFTWARE TRAINEE ENGINEER",
+		"professional_skills": {
+			"java": "Competetive",
+			"Python": "Advanced",
+			"js": "intermediate",
+      "c":"Competetive",
+      "Ruby":"Beginner"
+		},
+		"personal_Skills": ["playing cricket", "Learning Technologies"],
+		"education": {
+			"institute":["GITAM","Sri Chaitanya","Delhi School"],
+			"course":["Btech","intermediate","SSC"],
+			"percentage":[75,89,95]
+		}
+	}
+}

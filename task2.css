@@ -1,0 +1,44 @@
+.test1{
+  border-radius: 50%;
+  border:2px solid lightgreen;
+}
+.test2{
+  border-radius: 50%;
+  border:2px solid crimson;
+}
+.t3 tr,td{
+  width:100px;
+  height:100px;
+  border-bottom: 2px solid #ddd;
+}
+.t3 #one{
+  background-color: lightgreen;
+
+}
+.t3 #two{
+  background-color: #DC143C;
+}
+.t5,.t6,.t4{
+  font-size: 22px;
+}
+
+.t7,.t3{
+  font-size: 20px;
+}
+
+.two{
+  position: relative;
+  left:400px;
+  bottom:850px;
+  border:2px solid black;
+  box-shadow: 5px 10px 8px 10px lightgreen;
+  width:50%;
+}
+.main2{
+  position:relative;
+  left:400px;
+  bottom:900px;
+  border:2px solid black;
+  box-shadow: 5px 10px 8px 10px #DC143C;
+  width:50%;
+}

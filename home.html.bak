@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>home</title>
+    <link rel="stylesheet" href="../css/home.css">
+  </head>
+  <body>
+
+    <div class="one">
+      <img src="https://previews.123rf.com/images/metelsky/metelsky1809/metelsky180900233/109815470-man-avatar-profile-male-face-icon-vector-illustration-.jpg" alt="" height=250 width=250>
+      <b><p class="p">Sri Harsha Bulusu</p></b>
+      <b><p class="p">sriharsha16208@gmail.com</p></b>
+      <button type="submit" name="button" ><a href="resume1.html">View Resume</a></button>
+    </div>
+    <div class="two">
+      <img src="https://previews.123rf.com/images/metelsky/metelsky1809/metelsky180900233/109815470-man-avatar-profile-male-face-icon-vector-illustration-.jpg" alt="" height=250 width=250>
+      <b><p class="p">Virat Kohli</p></b>
+      <b><p class="p">virat18@gmail.com</p></b>
+      <button type="submit" name="button" ><a href="resume2.html">View Resume</a></button>
+    </div>
+  </body>
+</html>
